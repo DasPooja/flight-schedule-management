@@ -56,10 +56,10 @@ This is a React-based application to manage flight schedules with features like 
 
 ```bash
 # Clone the repository
-git clone https://github.com/DasPooja/flight-schedule-management
+git clone https://github.com/DasPooja/flight-schedule-management.git
 
 # Go to project folder
-cd flight-schedule
+cd flight-schedule-management
 
 # Install dependencies
 npm install
