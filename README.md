@@ -62,7 +62,7 @@ git clone https://github.com/DasPooja/flight-schedule-management.git
 cd flight-schedule-management
 
 # Install dependencies
-npm install
+npm install --legacy-peer-deps
 
 # Run the project
 npm run dev
